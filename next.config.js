@@ -10,7 +10,7 @@ const nextConfig = {
         new NextFederationPlugin({
           name: "blog",
           remotes: {
-            main: `main@http://localhost:3000/_next/static/${
+            main: `main@https://micro-fe1.netlify.app/_next/static/${
               isServer ? "ssr" : "chunks"
             }/remoteEntry.js`,
           },
