@@ -1,4 +1,4 @@
-#Micro Front End App 2
+# Micro Front End App 2
 This project is setup using **Next.js 13.2** and bootstrapped with **create-next-app@latest**.
 
 > This project does not use the experimental **App directory** or Next.js version 12's **Src directory**. Setup with plain JavaScript.
